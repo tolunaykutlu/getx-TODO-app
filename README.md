@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
